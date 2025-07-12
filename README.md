@@ -1,5 +1,6 @@
 # Real-Time Group Chat Room with Python: Client-Server Application
-#### Video Demo:  : https://youtu.be/pIo0wy9_AH0
+#### Video Demo:  https://youtu.be/pIo0wy9_AH0
+#### Author: Mohammed Abubaker
 #### Description:
 This project implements a chat room where multiple clients can communicate in real-time. The server manages chat rooms, allowing clients to create or join existing rooms by specifying their username and room name. Users in a chat room can see who is sending the chat and receive notifications when new members join. The server broadcasts messages to all members in the room. The application uses Python's socket programming and threading to handle multiple clients concurrently to provide an efficient user experience.
 
